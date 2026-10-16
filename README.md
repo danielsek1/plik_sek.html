@@ -9,7 +9,7 @@
     <body> 
  Tutaj jest Plik<br>
 
-<A HREF="index_sek.html"> wróć </A>
+<A HREF="index_sek"> wróć </A>
 
     </body> 
   </html> 
